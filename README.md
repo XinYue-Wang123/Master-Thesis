@@ -23,7 +23,7 @@
 
   - The original data for replication is currently unpublished and unavailable due to legal restrictions.
     
-  - This thesis is currently undergoing review and has not yet been submitted to the examination office for evaluation. 
+  - This thesis has been submitted to the examination office for evaluation. It is currently undergoing review and has not yet been graded. 
 
 
 ## Contact Information
