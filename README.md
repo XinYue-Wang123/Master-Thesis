@@ -16,7 +16,7 @@
 
   - `thesis_code.do`: Stata code for my thesis, encompassing data cleaning, descriptive statistics, association tests, and regressions.
 
-  - `Master's_Thesis_Xinyue.pdf`: PDF file of my thesis. If you encounter issues compiling, please see [this alternative link](https://www.dropbox.com/scl/fi/379a6lf1o1vpm1fj31mxh/Master-s-thesis_The-Importance-of-Colleagues-as-a-Reference-Group-in-Income-Comparison.pdf?rlkey=2j7tiodugd3qhiot4rzuuilpw&dl=0).
+  - `Master's_Thesis_Xinyue.pdf`: PDF file of my thesis. If you encounter issues compiling, please see [this alternative link](https://www.dropbox.com/scl/fi/jt6mvzbhled9ox193y4r3/Master-s-thesis_The-Importance-of-Colleagues-as-a-Reference-Group-in-Income-Comparison.pdf?rlkey=mzk1qi4vumiovf5x9xebad97b&dl=0).
 
 
 ## Statement
