@@ -11,6 +11,8 @@
 
   - Author: Xinyue Wang
 
+  - Grade: This thesis received a final grade of 1.3 ("very good" in the German university grading system).
+
 
 ## Repository Structure
 
@@ -23,8 +25,6 @@
 
   - The original data for replication is currently unpublished and unavailable due to legal restrictions.
     
-  - This thesis has been submitted to the examination office for evaluation. It is currently undergoing review and has not yet been graded. 
-
 
 ## Contact Information
 
